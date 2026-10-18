@@ -1,0 +1,4 @@
+C:/Users/Admin/Downloads/fluidsim/build/CMakeFiles/fluidsim.dir
+C:/Users/Admin/Downloads/fluidsim/build/CMakeFiles/shaders.dir
+C:/Users/Admin/Downloads/fluidsim/build/CMakeFiles/edit_cache.dir
+C:/Users/Admin/Downloads/fluidsim/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,14 @@
+[
+{
+  "directory": "C:/Users/Admin/Downloads/fluidsim/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -DGLFW_DLL -DSHADER_DIR=\\\"C:/Users/Admin/Downloads/fluidsim/build/shaders\\\"  -g -std=gnu++17 -fopenmp -o CMakeFiles\\fluidsim.dir\\src\\main.cpp.obj -c C:\\Users\\Admin\\Downloads\\fluidsim\\fluidsim\\src\\main.cpp",
+  "file": "C:/Users/Admin/Downloads/fluidsim/fluidsim/src/main.cpp",
+  "output": "CMakeFiles/fluidsim.dir/src/main.cpp.obj"
+},
+{
+  "directory": "C:/Users/Admin/Downloads/fluidsim/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -DGLFW_DLL -DSHADER_DIR=\\\"C:/Users/Admin/Downloads/fluidsim/build/shaders\\\"  -g -std=gnu++17 -fopenmp -o CMakeFiles\\fluidsim.dir\\src\\vk_renderer.cpp.obj -c C:\\Users\\Admin\\Downloads\\fluidsim\\fluidsim\\src\\vk_renderer.cpp",
+  "file": "C:/Users/Admin/Downloads/fluidsim/fluidsim/src/vk_renderer.cpp",
+  "output": "CMakeFiles/fluidsim.dir/src/vk_renderer.cpp.obj"
+}
+]
